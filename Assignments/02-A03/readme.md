@@ -7,9 +7,9 @@ This program implements a list data structure that links together nodes of integ
 
 ### Files
 
-|   #    | File     | Description                      |
-| :---:  | -------- | -------------------------------- |
-| 02-AO3 | main.cpp | Main driver of my list program . |
+|   #   | File     | Description                      |
+| :---: | -------- | -------------------------------- |
+|   1   | main.cpp | Main driver of my list program . |
 
 ### Instructions
 
